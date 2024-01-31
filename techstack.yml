@@ -1,0 +1,997 @@
+repo_name: Annesannella1/platform-samples
+report_id: 1548304fcc359872efc4bdd9243e2227
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T12:10:47+00:00'
+requested_by: djdefi
+provider: github
+branch: master
+detected_tools_count: 75
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Groovy
+  description: A multi-faceted language for the Java platform
+  website_url: https://groovy-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/sql/audit/admin-tokens.sql
+  detection_source: sql/audit/admin-tokens.sql
+  last_updated_by: Natalie Somersall
+  last_updated_on: 2021-09-20 16:19:44.000000000 Z
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/hooks/python/configuring-your-server/requirements.txt
+  detection_source: hooks/python/configuring-your-server/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-22 03:40:30.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/package.json
+  detection_source: api/javascript/es2015-nodejs/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 15.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/yarn.lock
+  detection_source: graphql/enterprise/package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2018-09-05 15:32:52.000000000 Z
+- name: Sinatra
+  description: Classy web-development dressed in a DSL
+  website_url: http://www.sinatrarb.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/999/logo.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/basics-of-authentication/Gemfile
+  detection_source: api/ruby/basics-of-authentication/Gemfile
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-14 17:52:42.000000000 Z
+- name: GraphiQL
+  description: An in-browser IDE for exploring GraphQL
+  website_url: https://github.com/graphql/graphiql
+  version: 1.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/7879/GraphiQL.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/yarn.lock
+  detection_source: graphql/enterprise/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-22 03:27:34.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/building-a-ci-server/Gemfile
+  detection_source: api/ruby/building-a-ci-server/Gemfile
+  last_updated_by: Garen Torikian
+  last_updated_on: 2014-04-04 20:59:51.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/.github/workflows/codeql.yml
+  detection_source: ".github/workflows/codeql.yml"
+  last_updated_by: djdefi
+  last_updated_on: 2023-01-10 18:13:44.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/java/deployment/pom.xml
+  detection_source: api/java/deployment/pom.xml
+  last_updated_by: Takafumi Ikeda
+  last_updated_on: 2016-12-02 02:26:50.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/hooks/python/flask-github-webhooks/requirements.txt
+  detection_source: hooks/python/flask-github-webhooks/requirements.txt
+  last_updated_by: Jared Murrell
+  last_updated_on: 2018-04-25 16:53:15.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/Gemfile
+  detection_source: graphql/Gemfile
+  last_updated_by: Kyle Daigle
+  last_updated_on: 2016-09-16 22:36:46.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/encoding/.travis.yml
+  detection_source: api/javascript/es2015-nodejs/node_modules/encoding/.travis.yml
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/yarn.lock
+  detection_source: graphql/enterprise/yarn.lock
+  last_updated_by: Tommy Byrd
+  last_updated_on: 2017-06-08 00:51:40.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/package.json
+  detection_source: graphql/enterprise/package.json
+  last_updated_by: Tommy Byrd
+  last_updated_on: 2017-06-08 00:51:40.000000000 Z
+- name: Bluebird
+  description: A full featured promise library with unmatched performance
+  website_url: https://github.com/petkaantonov/bluebird/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: JSON Web Token
+  description: A JSON-based open standard for creating access tokens
+  website_url: http://jwt.io/
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/6417/jwt-icon.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/building-your-first-github-app/Gemfile.lock
+  detection_source: api/ruby/building-your-first-github-app/Gemfile
+  last_updated_by: Sarah Schneider
+  last_updated_on: 2018-06-20 23:01:13.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-22 03:25:17.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-07-07 16:47:44.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 16.39.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: chai-as-promised
+  description: Extends Chai with assertions about promises
+  package_url: https://www.npmjs.com/chai-as-promised
+  version: 5.2.0
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: iconv
+  description: Text recoding in JavaScript for fun and profit!
+  package_url: https://www.npmjs.com/iconv
+  version: 2.1.11
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17911/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/encoding/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/encoding/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: iconv-lite
+  description: Convert character encodings in pure javascript
+  package_url: https://www.npmjs.com/iconv-lite
+  version: 0.4.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16350/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/encoding/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: is-stream
+  description: Check if something is a Node.js stream
+  package_url: https://www.npmjs.com/is-stream
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17874/default_369b3bf3ef062123a581e4817f09cb0004de7ff6.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-07-07 16:47:44.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/es2015-nodejs/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: nodeunit
+  description: Easy unit testing for node.js and the browser
+  package_url: https://www.npmjs.com/nodeunit
+  version: 0.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16216/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/encoding/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/encoding/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: pretty-bytes
+  description: 'Convert bytes to a human readable string: 1337 → 1.34 kB'
+  package_url: https://www.npmjs.com/pretty-bytes
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: Pierluigi Cau
+  last_updated_on: 2020-02-21 10:53:44.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/yarn.lock
+  detection_source: api/javascript/es2015-nodejs/node_modules/node-fetch/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/enterprise/yarn.lock
+  detection_source: graphql/enterprise/package.json
+  last_updated_by: snyk-bot
+  last_updated_on: 2018-09-05 15:32:52.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: '2.47'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/iconv-lite/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+- name: tempfile
+  description: Get a random temporary file path
+  package_url: https://www.npmjs.com/tempfile
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18336/default_ee96f9207d5179911f1b284ce301920711f47528.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: terminal-kit
+  description: 256 colors, keys and mouse, input field, progress bars, screen buffer
+  package_url: https://www.npmjs.com/terminal-kit
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18660/default_2bb8d8f1eaa4307e6423f44180eb3be1d861c4fb.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/gha-cleanup/package-lock.json
+  detection_source: api/javascript/gha-cleanup/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-13 01:55:06.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  detection_source: api/javascript/es2015-nodejs/node_modules/is-stream/package.json
+  last_updated_by: k33g
+  last_updated_on: 2016-10-25 16:32:06.000000000 Z
+- name: activesupport
+  description: A toolkit of support libraries and Ruby core extensions extracted from
+    the Rails framework
+  package_url: https://rubygems.org/activesupport
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18817/default_b17f14dbef6c1275120b34d9ec2eff5942499bd5.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/rendering-data-as-graphs/Gemfile.lock
+  detection_source: app/ruby/app-issue-creator/Gemfile
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-01 16:31:16.000000000 Z
+  vulnerabilities:
+  - name: Active Support Possibly Discloses Locally Encrypted Files
+    cve_id: CVE-2023-38037
+    cve_url: https://github.com/advisories/GHSA-cr5q-6q9f-rq6q
+    detected_date: Aug 24
+    severity: low
+    first_patched: 7.0.7.1
+- name: httparty
+  description: Makes http fun! Also
+  package_url: https://rubygems.org/httparty
+  version: 0.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18832/default_8c2fa81d8b8e48c679685199823ce30d598d3e87.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/graphql/Gemfile.lock
+  detection_source: graphql/Gemfile
+  last_updated_by: Kyle Daigle
+  last_updated_on: 2016-09-16 22:36:46.000000000 Z
+- name: json
+  description: This is a JSON implementation as a Ruby extension in C
+  package_url: https://rubygems.org/json
+  version: 2.3.0
+  license: Ruby
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18822/default_19184669508c0f71aec9521d5f14d71b77203130.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/building-a-ci-server/Gemfile.lock
+  detection_source: api/ruby/building-a-ci-server/Gemfile
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-14 17:52:02.000000000 Z
+- name: jwt
+  description: A pure ruby implementation of the RFC 7519 OAuth JSON Web Token
+  package_url: https://rubygems.org/jwt
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18991/default_e5e3569d4beb5d51f9ce87c88e8b44a2308e087b.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/building-your-first-github-app/Gemfile.lock
+  detection_source: api/ruby/building-your-first-github-app/Gemfile
+  last_updated_by: Sarah Schneider
+  last_updated_on: 2018-06-20 23:01:13.000000000 Z
+- name: rest-client
+  description: A simple HTTP and REST client for Ruby
+  package_url: https://rubygems.org/rest-client
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18836/default_669e0ebb464c584b580cfec09e646fddff70c02a.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/basics-of-authentication/Gemfile.lock
+  detection_source: api/ruby/basics-of-authentication/Gemfile
+  last_updated_by: Stefan Stölzle
+  last_updated_on: 2023-01-11 06:18:34.000000000 Z
+- name: shotgun
+  description: Reloading Rack development server
+  package_url: https://rubygems.org/shotgun
+  version: '0.9'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19213/default_e8ac24f22f88ea3b04a85afe7ad222faed6d5605.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/building-a-ci-server/Gemfile.lock
+  detection_source: api/ruby/building-a-ci-server/Gemfile
+  last_updated_by: Garen Torikian
+  last_updated_on: 2014-04-04 20:59:51.000000000 Z
+- name: sinatra_auth_github
+  description: A sinatra extension for easy oauth integration with github
+  package_url: https://rubygems.org/sinatra_auth_github
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/ruby/rendering-data-as-graphs/Gemfile.lock
+  detection_source: api/ruby/rendering-data-as-graphs/Gemfile
+  last_updated_by: Nathan Henderson
+  last_updated_on: 2017-10-12 15:58:58.000000000 Z
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.8.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/java/deployment/pom.xml
+  detection_source: api/java/deployment/pom.xml
+  last_updated_by: Takafumi Ikeda
+  last_updated_on: 2016-12-02 02:26:50.000000000 Z
+- name: com.sparkjava:spark-core
+  description: A Sinatra inspired java web framework
+  version: 2.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/java/deployment/pom.xml
+  detection_source: api/java/deployment/pom.xml
+  last_updated_by: Takafumi Ikeda
+  last_updated_on: 2016-12-02 02:26:50.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/java/deployment/pom.xml
+  detection_source: api/java/deployment/pom.xml
+  last_updated_by: Takafumi Ikeda
+  last_updated_on: 2016-12-02 02:26:50.000000000 Z
+- name: org.kohsuke:github-api
+  description: GitHub API for Java
+  version: '1.75'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/java/deployment/pom.xml
+  detection_source: api/java/deployment/pom.xml
+  last_updated_by: Takafumi Ikeda
+  last_updated_on: 2016-12-02 02:26:50.000000000 Z
+- name: ipaddress
+  description: IPv4/IPv6 manipulation library
+  package_url: https://pypi.org/project/ipaddress
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19942/default_aacb529ceff756b62765790d8d6787a041d514ff.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/hooks/python/flask-github-webhooks/requirements.txt
+  detection_source: hooks/python/flask-github-webhooks/requirements.txt
+  last_updated_by: Jared Murrell
+  last_updated_on: 2018-04-25 16:53:15.000000000 Z
+- name: pyOpenSSL
+  description: Python wrapper module around the OpenSSL library
+  package_url: https://pypi.org/project/pyOpenSSL
+  version: 17.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19873/default_7ed3c4ccf2a3218ae3655165b980bd4a90a445dc.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/hooks/python/flask-github-webhooks/requirements.txt
+  detection_source: hooks/python/flask-github-webhooks/requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-02-22 03:40:29.000000000 Z
+- name: pyramid
+  description: The Pyramid Web Framework, a Pylons project
+  package_url: https://pypi.org/project/pyramid
+  version: 1.9.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19967/default_08ca82e926d4333989c376f7cbf2803cef43771c.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/api/python/building-a-ci-server/requirements.txt
+  detection_source: api/python/building-a-ci-server/requirements.txt
+  last_updated_by: Sijis Aviles
+  last_updated_on: 2018-10-06 06:44:57.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/Annesannella1/platform-samples/blob/master/hooks/python/flask-github-webhooks/requirements.txt
+  detection_source: hooks/python/flask-github-webhooks/requirements.txt
+  last_updated_by: Jared Murrell
+  last_updated_on: 2018-04-25 16:53:15.000000000 Z
